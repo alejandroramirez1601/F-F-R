@@ -1,0 +1,6 @@
+V3 3
+FL "C:/Users/Alejandro ramirez/Desktop/xilink/FFR/FFR.vhd" 2018/10/29.12:35:27 P.20131013
+EN work/FFR 1540827329 FL "C:/Users/Alejandro ramirez/Desktop/xilink/FFR/FFR.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FFR/Behavioral 1540827330 \
+      FL "C:/Users/Alejandro ramirez/Desktop/xilink/FFR/FFR.vhd" EN work/FFR 1540827329
